@@ -429,4 +429,58 @@ video {
     padding: 10px;
     border-radius: 5px;
 }
+.product-mint {
+    box-shadow:0px 0 10px 1px #007D37;
+    margin: 5px;
+    padding: 0px;
+    border-radius: 5px;
+    transition: box-shadow .3s;
+}
+.product-mint:hover{
+    box-shadow: 0px 0 10px 1px lightgreen; 
+}
+
+.product-ice {
+    box-shadow:0px 0 10px 1px #007D37;
+    margin: 5px;
+    padding: 0px;
+    border-radius: 5px;
+    transition: box-shadow .3s;
+}
+.product-ice:hover{
+    box-shadow: 0px 0 10px 1px #4FC3F7; 
+}
+.product-musk {
+    box-shadow:0px 0 10px 1px #007D37;
+    margin: 5px;
+    padding: 0px;
+    border-radius: 5px;
+    transition: box-shadow .3s;   
+}
+.product-musk:hover{
+    box-shadow: 0px 0 10px 1px yellow; 
+}
+.btn-420 {
+    border-color: green;
+    color: green;
+    margin: 10px;
+    transition: box-shadow .3s;
+}
+.b420G:hover {
+    color: lightgreen;
+    border-color: lightgreen;
+    box-shadow:0px 0 10px 1px green;
+}
+.b420B:hover {
+    color: #4FC3F7;
+    border-color: #4FC3F7;
+    box-shadow:0px 0 10px 1px #4FC3F7;
+}
+.b420Y:hover {
+    color: yellow;
+    border-color: yellow;
+    box-shadow:0px 0 10px 1px yellow;
+}
+.spc {
+    margin: 30px;
 }
