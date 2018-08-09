@@ -502,5 +502,9 @@ video {
 }
 
 .center {
-   padding-top: 40px;
+   padding: 20px;
+    box-shadow:0px 0 10px 1px #007D37;
+}
+h2 {
+    padding: 10px;
 }
